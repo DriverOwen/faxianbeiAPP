@@ -13,7 +13,7 @@
 <!--              <img src="~@/assets/images/zang.png" alt="">-->
             </div>
             <div class="text">
-              <p>藏装租借</p>
+              <p>爱情系列</p>
               <p class="text-likes">1.2k 人喜欢</p>
             </div>
           </div>
@@ -26,7 +26,7 @@
 <!--                  <img src="~@/assets/images/recommend1.jpg" alt="">-->
                 </div>
                 <div class="text">
-                  <span>特色松茸</span>
+                  <span>节日系列</span>
                   <p class="text-likes">2.8k 人喜欢</p>
                 </div>
               </div>
@@ -39,7 +39,7 @@
 <!--                  <img src="~@/assets/images/recommend1.jpg" alt="">-->
                 </div>
                 <div class="text">
-                  <span>高原耗牛肉</span>
+                  <span>星座系列</span>
                   <p class="text-likes">1.4k 人喜欢</p>
                 </div>
               </div>
@@ -54,7 +54,7 @@
 <!--              <img src="~@/assets/images/recommend1.jpg" alt="">-->
             </div>
             <div class="text">
-              <span>高原虫草</span>
+              <span>办公室系列</span>
               <p class="text-likes">886 人喜欢</p>
             </div>
           </div>
@@ -65,7 +65,7 @@
 <!--              <img src="~@/assets/images/recommend1.jpg" alt="">-->
             </div>
             <div class="text">
-              <span>异域藏茶</span>
+              <span>其它系列</span>
               <p class="text-likes">1.1k 人喜欢</p>
             </div>
           </div>
@@ -75,10 +75,10 @@
         <el-col :span="24">
           <div class="goods-box-large">
             <div class="img">
-              <img src="~@/assets/images/recommend1.jpg" alt="">
+              <img src="~@/assets/images/duo1.jpg" alt="">
             </div>
             <div class="text">
-              <span>更多</span>
+              <span>我们的服务</span>
             </div>
           </div>
         </el-col>
@@ -153,7 +153,7 @@ name: "Shop",
     width: 100%;
     height: 100%;
     font-size: 20px;
-    color: #ec6d85;
+    color: #8FC619;
     font-weight: bold;
     display: flex;
      flex-direction: column;
@@ -183,27 +183,27 @@ name: "Shop",
  }
  .zang {
    height: 240px;
-   background: url("../assets/images/zang.png");
+   background: url("../assets/images/duolove.png");
    background-size: cover;
  }
  .song {
    height: 117px;
-   background: url("../assets/images/song.jpg");
+   background: url("../assets/images/duojieri.jpg");
    background-size: cover;
  }
  .hao {
    height: 117px;
-   background: url("../assets/images/hao.jpg");
+   background: url("../assets/images/duoxinkong.png");
    background-size: cover;
  }
  .cao {
    height: 117px;
-   background: url("../assets/images/cao.jpg");
+   background: url("../assets/images/duoban.jpg");
    background-size: cover;
  }
  .cha {
    height: 117px;
-   background: url("../assets/images/cha.jpg");
+   background: url("../assets/images/duo3.jpg");
    background-size: cover;
  }
 </style>

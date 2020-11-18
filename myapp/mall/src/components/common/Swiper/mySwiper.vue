@@ -1,16 +1,16 @@
 <template>
   <swiper :options="swiperOption" ref="mySwiper">
     <swiper-slide>
-      <img src="~@/assets/images/recommend1.jpg" alt="">
+      <img src="~@/assets/images/duo1.jpg" alt="">
     </swiper-slide>
     <swiper-slide>
-      <img src="~@/assets/images/recommend2.jpg" alt="">
+      <img src="~@/assets/images/duo2.jpg" alt="">
     </swiper-slide>
     <swiper-slide>
-      <img src="~@/assets/images/recommend3.jpg" alt="">
+      <img src="~@/assets/images/duo3.jpg" alt="">
     </swiper-slide>
     <swiper-slide>
-      <img src="~@/assets/images/recommend4.jpg" alt="">
+      <img src="~@/assets/images/duo4.jpg" alt="">
     </swiper-slide>
     <swiper-slide>
       <img src="~@/assets/images/recommend5.jpg" alt="">

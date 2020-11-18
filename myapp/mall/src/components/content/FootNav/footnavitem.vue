@@ -31,7 +31,7 @@
     align-items: center;
   }
   .active {
-    color: #F2385A;
+    color: #8FC619;
 
   }
 
